@@ -144,26 +144,39 @@ Predictions were (Predicted / Actual)
 
 
 Image 0 
+
 	probabilities: [  1.00000000e+00   3.37353497e-38   0.00000000e+00   0.00000000e+00
    0.00000000e+00] 
+
 	classes: [28 34  0  1  2]
-Image 1 
+
+1. Image 1 
 	probabilities: [  1.00000000e+00   1.49683227e-37   0.00000000e+00   0.00000000e+00
    0.00000000e+00] 
+
 	classes: [12 19  0  1  2]
-Image 2 
+
+2. Image 2 
 	probabilities: [ 1.  0.  0.  0.  0.] 
+
 	classes: [9 0 1 2 3]
-Image 3 
+
+3. Image 3 
 	probabilities: [ 1.  0.  0.  0.  0.] 
+
 	classes: [19  0  1  2  3]
-Image 4 
+
+4. Image 4 
 	probabilities: [ 1.  0.  0.  0.  0.] 
+
 	classes: [31  0  1  2  3]
-Image 5 
+
+5. Image 5 
+
 	probabilities: [ 1.  0.  0.  0.  0.] 
+	
 	classes: [13  0  1  2  3]
 
 
-For the second image ... 
+
 
