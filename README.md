@@ -21,10 +21,10 @@ The goals / steps of this project are the following:
 [image4]: ./images/post_distrib.png "Post distribution"
 [image5]: ./images/processed.png "Processed"
 [image6]: ./extra_signs/sign1.jpg "sign1"
-[image7]: ./extra_signs/sign1.jpg "sign2"
-[image8]: ./extra_signs/sign1.jpg "sign3"
-[image9]: ./extra_signs/sign1.jpg "sign4"
-[image10]: ./extra_signs/sign1.jpg "sign5"
+[image7]: ./extra_signs/sign2.jpg "sign2"
+[image8]: ./extra_signs/sign3.jpg "sign3"
+[image9]: ./extra_signs/sign4.jpg "sign4"
+[image10]: ./extra_signs/sign5.jpg "sign5"
 
 
 ## Rubric Points
