@@ -1,8 +1,5 @@
 #**Traffic Sign Recognition** 
 
-##Writeup Template
-
-###You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
 
 ---
 
@@ -23,11 +20,11 @@ The goals / steps of this project are the following:
 [image3]: ./images/init_distrib.png "Initial distribution"
 [image4]: ./images/post_distrib.png "Post distribution"
 [image5]: ./images/processed.png "Processed"
-[image6]: ./extra_signs/sign1.png "sign1"
-[image7]: ./extra_signs/sign1.png "sign2"
-[image8]: ./extra_signs/sign1.png "sign3"
-[image9]: ./extra_signs/sign1.png "sign4"
-[image10]: ./extra_signs/sign1.png "sign5"
+[image6]: ./extra_signs/sign1.jpg "sign1"
+[image7]: ./extra_signs/sign1.jpg "sign2"
+[image8]: ./extra_signs/sign1.jpg "sign3"
+[image9]: ./extra_signs/sign1.jpg "sign4"
+[image10]: ./extra_signs/sign1.jpg "sign5"
 
 
 ## Rubric Points
@@ -36,7 +33,7 @@ The goals / steps of this project are the following:
 ---
 ###Writeup / README
 
-You're reading it! and here is a link to my [project code](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
+Here is a link to my [project code](https://github.com/deepankarsharma/udacity_traffic_signs/blob/master/Traffic_Sign_Classifier.ipynb)
 
 ###Data Set Summary & Exploration
 
