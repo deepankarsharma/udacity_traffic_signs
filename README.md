@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 
 
 [//]: # (Image References)
-
+[image1]: ./images/hist.png "Histogram"
 [image2]: ./images/grayscale.png "Grayscaling"
 [image3]: ./images/init_distrib.png "Initial distribution"
 [image4]: ./images/post_distrib.png "Post distribution"
@@ -43,7 +43,7 @@ I used matplotlib to examine the distribution of classes. Looking at this allowe
 
 Here is an exploratory visualization of the data set. It is a histogram showing distribution of the training, validation and test datasets.
 
-![alt text][image2]
+![alt text][image1]
 
 ###Design and Test a Model Architecture
 
