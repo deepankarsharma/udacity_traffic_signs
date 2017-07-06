@@ -151,22 +151,26 @@ Predictions were (Predicted / Actual)
 	classes: [28 34  0  1  2]
 
 2. Image 1 
+
 	probabilities: [  1.00000000e+00   1.49683227e-37   0.00000000e+00   0.00000000e+00
    0.00000000e+00] 
 
 	classes: [12 19  0  1  2]
 
 3. Image 2 
+
 	probabilities: [ 1.  0.  0.  0.  0.] 
 
 	classes: [9 0 1 2 3]
 
 4. Image 3 
+
 	probabilities: [ 1.  0.  0.  0.  0.] 
 
 	classes: [19  0  1  2  3]
 
 5. Image 4 
+
 	probabilities: [ 1.  0.  0.  0.  0.] 
 
 	classes: [31  0  1  2  3]
