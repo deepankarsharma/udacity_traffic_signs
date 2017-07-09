@@ -124,7 +124,18 @@ Here are five German traffic signs that I found on the web:
 ![alt text][image9]
 ![alt text][image10]
 
-The first image might be difficult to classify because ...
+A couple of reasons why the model might misclassify are 
+
+a. Several of the images have a getty images water mark on them which is additional text that shows on top of the image.
+b. Some of the images also have a serial number written on bottom left
+c. Some of the signs have interesting backgrounds like tree / foliage in the background which might throw the model off. 
+
+The first image might be difficult to classify because it has a getty images logo. Also it has a serial number and has a tree in the background.
+The second image might be difficult to classify since it does not exist as a category in our dataset. I added it to learn how the model deals with classes it has not encountered before.
+The third image would be difficult to categorise because of the getty image logo and the serial number. There is also a geometric fence pattern in the background that might throw off the model.
+Fourth image has a getty images logo which might throw the model off.
+On the fifth image the sign has some scratches on it which could mislead the model.
+On the sixth image the class does not exist in the dataset, I added it to see how the model behaves on a new class.
 
 ####2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the "Stand Out Suggestions" part of the rubric).
 
